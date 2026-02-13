@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "G.Ramakrishna",
+    "designation": "N/W Prog",
+    "employee_id": "ramakrishna_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 2,
+    "name": "P.Swetha",
+    "designation": "Comp Prog",
+    "employee_id": "swetha_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 3,
+    "name": "C.P Naidu",
+    "designation": "N/W Prog",
+    "employee_id": "purushothamanaidu_c@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 4,
+    "name": "T.Nagarjuna",
+    "designation": "Comp Prog",
+    "employee_id": "nagarjuna_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 5,
+    "name": "P.swathi",
+    "designation": "Comp Prog",
+    "employee_id": "pswathi_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 6,
+    "name": "B.Srinivasa Reddy",
+    "designation": "N/W Prog",
+    "employee_id": "bsrinivasreddy_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 7,
+    "name": "V.Krishna Kireeti",
+    "designation": "Junior Asst",
+    "employee_id": "srikrishnakireeti_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 8,
+    "name": "M.Akhil",
+    "designation": "Network Administrator",
+    "employee_id": "akhil_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 9,
+    "name": "K.Peerya",
+    "designation": "Skilled Asst",
+    "employee_id": "",
+    "department": "Information Technology"
+  },
+  {
+    "id": 10,
+    "name": "Mohd Anwar",
+    "designation": "Record Asst",
+    "employee_id": "anwar_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 11,
+    "name": "Ravi Surekha",
+    "designation": "Computer Operator",
+    "employee_id": "surekha_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 12,
+    "name": "M.Venkata Krishnaveni",
+    "designation": "Jr.COMP PROG",
+    "employee_id": "venkatakrishnaveni_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 13,
+    "name": "Mr.Mohammed Habeeb Ali",
+    "designation": "Jr.COMP PROG",
+    "employee_id": "habeebali_it@vnrvjiet.in",
+    "department": "Information Technology"
+  },
+  {
+    "id": 14,
+    "name": "Saranu Hema Bhavani",
+    "designation": "Jr.COMP PROG",
+    "employee_id": "hemabhavani_it@vnrvjiet.in",
+    "department": "Information Technology"
+  }
+]

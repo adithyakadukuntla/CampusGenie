@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Mr. K. Rajanikanth Reddy",
+    "designation": "Skill assistant",
+    "employee_id": "M.Sc., B.Ed.",
+    "department": "Physics"
+  },
+  {
+    "id": 2,
+    "name": "Mr. P. Satyanarayna",
+    "designation": "Skill assistant",
+    "employee_id": "B.Sc., B.Ed.",
+    "department": "Physics"
+  },
+  {
+    "id": 3,
+    "name": "Mrs .N. Jyothi",
+    "designation": "Skill assistant",
+    "employee_id": "B.Sc.",
+    "department": "Physics"
+  }
+]

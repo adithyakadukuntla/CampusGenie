@@ -1,0 +1,57 @@
+POST http://127.0.0.1:5000/query
+Content-Type: application/json
+
+{
+    "query": "What is the fees structure for college ?"
+}
+
+####
+POST http://0.0.0.0:5000/query
+Content-Type: application/json
+
+{
+    "query": "I am at Admission Block , how to reach the Library ?"
+}
+
+
+
+#####
+POST http://127.0.0.1:5000/query
+Content-Type: application/json
+
+{
+    "query": "Give me the 4-1 btech minor syllabus unit 1 topics for CSE-DS R22 of Subject Deep Learning Algorithms ?"
+}
+
+####
+POST http://127.0.0.1:5000/query
+Content-Type: application/json
+
+{
+    "query": "What are the Btech departments available in the college ?"
+}
+
+####
+POST http://127.0.0.1:5000/query
+Content-Type: application/json
+
+{
+    "query": "What are the extracurricular activities available in the college ?"
+}
+
+
+
+###
+POST http://10.100.0.15:11434/api/chat
+Content-Type: application/json
+
+{
+  "model": "qwen2.5:7b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Can we run react frontend on a particular port ?"
+    }
+  ],
+  "stream": false
+}

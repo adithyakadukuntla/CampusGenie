@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Mrs. V Malleswari",
+    "designation": "Senior Instructor",
+    "employee_id": "malleswari_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 2,
+    "name": "Mr. B Sivaji",
+    "designation": "Instructor",
+    "employee_id": "sivaji_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 3,
+    "name": "Mrs. A Geetha",
+    "designation": "Instructor",
+    "employee_id": "ageetha_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 4,
+    "name": "Mr.P.H.Sham Rao",
+    "designation": "SSA",
+    "employee_id": "shamrao_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 5,
+    "name": "Mr. K RameshMr. K Ramesh",
+    "designation": "JCP",
+    "employee_id": "ramesh_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 6,
+    "name": "Ms.K.Radhika",
+    "designation": "SSA",
+    "employee_id": "kradhika_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 7,
+    "name": "Ms.S.Shilpa",
+    "designation": "SA",
+    "employee_id": "shilpa_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 8,
+    "name": "Mr.G.Lavan Kumar",
+    "designation": "SA",
+    "employee_id": "glavankumar_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 9,
+    "name": "Mr.V.Sivarama Krishna",
+    "designation": "SSA",
+    "employee_id": "sivaramakrishna_eee@vnrvjiet.in",
+    "department": "Electrical & Electronics Engineering"
+  },
+  {
+    "id": 10,
+    "name": "Mr. R.Ramesh",
+    "designation": "Attender",
+    "employee_id": "-",
+    "department": "Electrical & Electronics Engineering"
+  }
+]

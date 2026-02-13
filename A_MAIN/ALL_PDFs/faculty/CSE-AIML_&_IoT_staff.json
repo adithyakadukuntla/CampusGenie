@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Sunkam Navya",
+    "designation": "Computer Operator",
+    "employee_id": "23CSE099",
+    "department": "CSE-AIML & IoT"
+  },
+  {
+    "id": 2,
+    "name": "B.Sandhya",
+    "designation": "Computer Operator",
+    "employee_id": "23CSE092",
+    "department": "CSE-AIML & IoT"
+  },
+  {
+    "id": 3,
+    "name": "B.Pravalika",
+    "designation": "JCP",
+    "employee_id": "23CSE093",
+    "department": "CSE-AIML & IoT"
+  },
+  {
+    "id": 4,
+    "name": "H.Sulekha",
+    "designation": "Computer Operator",
+    "employee_id": "24adm110",
+    "department": "CSE-AIML & IoT"
+  }
+]
