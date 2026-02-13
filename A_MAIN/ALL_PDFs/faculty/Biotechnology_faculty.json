@@ -1,26 +1,30 @@
 [
   {
+    "sno": "1",
     "name": "Dr Krovvidi Sree Rama SivaSai",
-    "designation": "Professor and HoD",
-    "qualification": "PG Diploma",
-    "joining_date": "02-09-2025",
-    "association": "Regular",
-    "email": "srsivasai_K@vnrvjiet.in",
     "profile": "https://vnrvjiet.ac.in/assets/pdfs/biotechnology/Krovvidi-SivaSai-biotechnology.pdf",
+    "designation": "Professor and HoD",
     "vidwan": "\thttps://vidwan.inflibnet.ac.in/profile/604694",
     "linkedin": "https://www.linkedin.com/in/krovvidi-s-r-sivasai-8126192b",
+    "joining_date": "02-09-2025",
+    "qualification": "PG Diploma",
+    "nature_of_association": "Regular",
+    "e_mail": "srsivasai_K@vnrvjiet.in",
+    "jntuh_id": "",
     "department": "Biotechnology"
   },
   {
+    "sno": "2",
     "name": "Dr Krovvidi Sri Phani Sarath Teja",
-    "designation": "Assistant Professor",
-    "qualification": "Ph.D.",
-    "joining_date": "06-10-2025",
-    "association": "Regular",
-    "email": "phanisarathteja_k@vnrvjiet.in",
     "profile": "https://vnrvjiet.ac.in/assets/pdfs/biotechnology/Teja-biotechnology.pdf",
+    "designation": "Assistant Professor",
     "vidwan": "\thttps://vidwan.inflibnet.ac.in//profile/681837",
     "linkedin": "https://www.linkedin.com/in/sarath-teja-ph-d-a70325273",
+    "joining_date": "06-10-2025",
+    "qualification": "Ph.D.",
+    "nature_of_association": "Regular",
+    "e_mail": "phanisarathteja_k@vnrvjiet.in",
+    "jntuh_id": "",
     "department": "Biotechnology"
   }
 ]

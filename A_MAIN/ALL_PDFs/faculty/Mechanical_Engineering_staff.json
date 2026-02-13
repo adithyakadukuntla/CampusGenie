@@ -1,0 +1,93 @@
+[
+  {
+    "name": "1",
+    "profile": "",
+    "designation": "Sri. K.Murali",
+    "employee_id": "Assistant Computer Programmer",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "2",
+    "profile": "",
+    "designation": "Sri. L. Kamalakara Rao",
+    "employee_id": "Instructor",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "3",
+    "profile": "",
+    "designation": "Sri. S. Ramu",
+    "employee_id": "Instructor",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "4",
+    "profile": "",
+    "designation": "Sri. V. Murali Krishna",
+    "employee_id": "Instructor",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "5",
+    "profile": "",
+    "designation": "Sri. E. Srinivasa Chary",
+    "employee_id": "Instructor",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "6",
+    "profile": "",
+    "designation": "Sri. V. Sita Rambabu",
+    "employee_id": "Skilled Assistant",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "7",
+    "profile": "",
+    "designation": "Sri. C. Venkata Rami Reddy",
+    "employee_id": "Skilled Assistant",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "8",
+    "profile": "",
+    "designation": "Sri. S. Malleswara Rao",
+    "employee_id": "Skilled Assistant",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "9",
+    "profile": "",
+    "designation": "Sri. M. Prabhakar",
+    "employee_id": "Skilled Assistant",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "10",
+    "profile": "",
+    "designation": "Sri. K. Ananda Saikrishna",
+    "employee_id": "Skilled Assistant",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "11",
+    "profile": "",
+    "designation": "Sri. M. Narasimha",
+    "employee_id": "Record Assistant",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "12",
+    "profile": "",
+    "designation": "Sri. P. Venkata Krishna",
+    "employee_id": "Skilled Assistant",
+    "department": "Mechanical Engineering"
+  },
+  {
+    "name": "13",
+    "profile": "",
+    "designation": "Sri. K. Venkatesh",
+    "employee_id": "Jr. Skilled Assistant",
+    "department": "Mechanical Engineering"
+  }
+]

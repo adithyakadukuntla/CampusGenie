@@ -1,28 +1,32 @@
 [
   {
-    "id": 1,
+    "sno": "1",
     "name": "Sunkam Navya",
+    "profile": "",
     "designation": "Computer Operator",
     "employee_id": "23CSE099",
     "department": "CSE-AIML & IoT"
   },
   {
-    "id": 2,
+    "sno": "2",
     "name": "B.Sandhya",
+    "profile": "",
     "designation": "Computer Operator",
     "employee_id": "23CSE092",
     "department": "CSE-AIML & IoT"
   },
   {
-    "id": 3,
+    "sno": "3",
     "name": "B.Pravalika",
+    "profile": "",
     "designation": "JCP",
     "employee_id": "23CSE093",
     "department": "CSE-AIML & IoT"
   },
   {
-    "id": 4,
+    "sno": "4",
     "name": "H.Sulekha",
+    "profile": "",
     "designation": "Computer Operator",
     "employee_id": "24adm110",
     "department": "CSE-AIML & IoT"

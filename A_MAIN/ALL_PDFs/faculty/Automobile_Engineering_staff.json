@@ -1,49 +1,56 @@
 [
   {
-    "id": 1,
+    "sno": "1",
     "name": "Mr. Bijjala Surya Teja",
+    "profile": "",
     "designation": "Junior Computer Programmer",
     "employee_id": "16PADM16",
     "department": "Automobile Engineering"
   },
   {
-    "id": 2,
+    "sno": "2",
     "name": "Mr. V. Chandrasekhar Rao",
+    "profile": "",
     "designation": "Skilled Assistant",
     "employee_id": "12AME050",
     "department": "Automobile Engineering"
   },
   {
-    "id": 3,
+    "sno": "3",
     "name": "Mr. G. Karthik",
+    "profile": "",
     "designation": "Senior Skilled Assistant",
     "employee_id": "15AED008",
     "department": "Automobile Engineering"
   },
   {
-    "id": 4,
+    "sno": "4",
     "name": "Mr. G. Pundarika",
+    "profile": "",
     "designation": "Junior Skilled Assistant",
     "employee_id": "19AED055",
     "department": "Automobile Engineering"
   },
   {
-    "id": 5,
+    "sno": "5",
     "name": "Mr. G. Raj Kumar",
+    "profile": "",
     "designation": "Senior Skilled Assistant",
     "employee_id": "12AME065",
     "department": "Automobile Engineering"
   },
   {
-    "id": 6,
+    "sno": "6",
     "name": "Mr. Parkibanda Chandra Shekar",
+    "profile": "",
     "designation": "Skilled Assistant",
     "employee_id": "23AED003",
     "department": "Automobile Engineering"
   },
   {
-    "id": 7,
+    "sno": "7",
     "name": "Mr. K. Shekar",
+    "profile": "",
     "designation": "Attender",
     "employee_id": "13ADM011",
     "department": "Automobile Engineering"
